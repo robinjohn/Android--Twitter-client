@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" android:layout_height="fill_parent"
+  android:background="@drawable/background">
+  <LinearLayout android:orientation="vertical"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+    <TextView android:text="@string/labelWhatsHappening" style="@style/title" />
+    <EditText android:layout_gravity="center"
+      android:layout_width="fill_parent" android:id="@+id/textStatus"
+      android:hint="@string/hintStatus" android:maxLength="160"
+      android:background="@color/transparentBlue" android:layout_margin="15px"
+      android:padding="15px" android:layout_height="wrap_content"
+      android:minLines="6" android:maxLines="6" />
+
+    <Button android:id="@+id/buttonUpdate" android:text="@string/labelUpdate"
+      style="@style/button" />
+  </LinearLayout>
+</ScrollView>

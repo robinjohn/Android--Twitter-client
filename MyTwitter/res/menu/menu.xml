@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:titleCondensed="Prefs" android:title="Preferences"
+    android:id="@+id/menuPrefs" android:icon="@android:drawable/ic_menu_preferences"></item>
+  <item android:icon="@android:drawable/ic_menu_sort_by_size"
+    android:title="Timeline" android:id="@+id/menuTimeline"
+    android:titleCondensed="Timeline"></item>
+  <item android:id="@+id/menuStartService" android:icon="@android:drawable/ic_media_play"
+    android:title="Start Update Service" android:titleCondensed="Start Service"></item>
+  <item android:title="Stop Update Service" android:icon="@android:drawable/ic_media_pause"
+    android:titleCondensed="Stop Service" android:id="@+id/menuStopService"></item>
+</menu>

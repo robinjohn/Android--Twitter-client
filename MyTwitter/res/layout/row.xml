@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" android:layout_height="wrap_content"
+  android:orientation="vertical">
+  <LinearLayout android:layout_height="wrap_content"
+    android:layout_width="fill_parent">
+    <TextView android:layout_width="wrap_content"
+      android:layout_height="wrap_content" android:id="@+id/textUser"
+      android:text="Bobby" android:textColor="@color/darkBlue" android:textStyle="bold"></TextView>
+    <TextView android:layout_height="wrap_content" android:id="@+id/textCreatedAt"
+      android:text="10 minues ago" android:layout_gravity="right"
+      android:gravity="right" android:layout_width="fill_parent"
+      android:textColor="@color/darkBlue"></TextView>
+  </LinearLayout>
+  
+  <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content" android:id="@+id/textText"
+    android:text="The latest status from Bobby" android:textColor="@color/darkBlue" android:autoLink="all"></TextView>
+
+</LinearLayout>

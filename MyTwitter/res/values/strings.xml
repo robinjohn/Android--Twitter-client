@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="labelTimeline">Timeline</string>
+  <string name="labelUpdate">Update</string>
+  <string name="hintStatus">Enter 160 character status update</string>
+  <string name="hello">Hello World, MyTwitter!</string>
+  <string name="app_name">MyTwitter</string>
+  <string name="labelWhatsHappening">What's Happening?</string>
+  <string name="sql">CREATE table timeline ( _id INTEGER NOT NULL
+    PRIMARY KEY,created_at INTEGER, status TEXT, user TEXT);</string>
+</resources>
