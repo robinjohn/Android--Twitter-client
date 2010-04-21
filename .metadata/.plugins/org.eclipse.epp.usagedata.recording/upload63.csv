@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477746
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477747
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477749
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477751
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477753
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477755
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477757
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477759
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477761
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477763
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477765
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671477767
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1267671477775
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1267671477775
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477791
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477793
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477795
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267671477796
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671482520
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671522696
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1267671522714
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671545750
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671546701
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.cleanAction",1267671546710
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267671554710

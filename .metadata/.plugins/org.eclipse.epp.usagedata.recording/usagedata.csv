@@ -1,0 +1,6 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jst.ejb.ui,1.1.301.v200908131325,"org.eclipse.jst.ejb.ui",1269543977104
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1269543977384
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1269543977755
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.408.v200904211646,"org.eclipse.jst.ws.creation.ui",1269543978022
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.105.v200908192014,"org.eclipse.jst.ws.consumption.ui",1269543978191

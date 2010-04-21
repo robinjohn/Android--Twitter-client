@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Exception occurred while creating compilation participant",1267660192262
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660192365
+error,log,,,"Exception occurred while creating compilation participant",1267660192366
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660193581
+error,log,,,"Exception occurred while creating compilation participant",1267660193583
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660193697
+error,log,,,"Exception occurred while creating compilation participant",1267660193698
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267660194418
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267660197072
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267660200469
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267660211402
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660212113
+error,log,,,"Exception occurred while creating compilation participant",1267660212115
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1267660303552
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1267660306286
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1267660310157
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267660427207
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660429438
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660431733
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1267660431743
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1267660431743
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432053
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432054
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432056
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432057

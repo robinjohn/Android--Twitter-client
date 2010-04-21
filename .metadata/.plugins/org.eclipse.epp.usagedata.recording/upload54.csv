@@ -1,0 +1,14 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1267661332195
+stopped,bundle,org.eclipse.jst.server.ui,1.1.0.v20090421,"org.eclipse.jst.server.ui",1267661332246
+stopped,bundle,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.adt",1267661332246
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.java.tasks",1267661332274
+stopped,bundle,org.eclipse.mylyn.java.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.java.ui",1267661332274
+stopped,bundle,org.eclipse.jdt.junit,3.5.1.r351_v20090708-0800,"org.eclipse.jdt.junit",1267661332274
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.ui",1267661332301
+stopped,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1267661332319
+stopped,bundle,org.eclipse.wst.xsl.jaxp.debug.ui,1.0.0.v200904240436,"org.eclipse.wst.xsl.jaxp.debug.ui",1267661332423
+stopped,bundle,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui",1267661332423
+stopped,bundle,org.maven.ide.eclipse.wtp,0.9.8.200905041414,"org.maven.ide.eclipse.wtp",1267661332435
+stopped,bundle,org.maven.ide.eclipse.refactoring,0.9.8.200905041414,"org.maven.ide.eclipse.refactoring",1267661332435
+stopped,bundle,org.eclipse.jst.common.annotations.ui,1.1.102.v200806010600,"org.eclipse.jst.common.annotations.ui",1267661332478

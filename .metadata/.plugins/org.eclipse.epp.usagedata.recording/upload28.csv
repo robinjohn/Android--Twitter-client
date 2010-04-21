@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Exception occurred while creating compilation participant",1267655595095
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1267655595128
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655596119
+error,log,,,"Exception occurred while creating compilation participant",1267655596121
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1267655597532
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655597734
+error,log,,,"Exception occurred while creating compilation participant",1267655597743
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267655600001
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267655603496
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655603578
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655606465
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267655623239
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655683775
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655705500
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267655715572
+started,bundle,org.eclipse.wst.sse.ui,1.1.101.v200908261807,"org.eclipse.wst.sse.ui",1267655736107
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1267655736437
+started,bundle,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui",1267655736506
+started,bundle,org.eclipse.wst.xsl.core,1.0.1.v200908101420,"org.eclipse.wst.xsl.core",1267655736861
+started,bundle,org.eclipse.jst.jsp.ui,1.1.401.v200908111935,"org.eclipse.jst.jsp.ui",1267655737067
+started,bundle,org.eclipse.jst.jsp.core,1.2.203.v200908241513,"org.eclipse.jst.jsp.core",1267655737119
+started,bundle,org.eclipse.wst.dtd.ui,1.0.400.v200904300717,"org.eclipse.wst.dtd.ui",1267655737268
+opened,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1267655737980
+activated,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1267655738828
+started,bundle,org.eclipse.jem.workbench,2.0.201.v200908271530,"org.eclipse.jem.workbench",1267655739027

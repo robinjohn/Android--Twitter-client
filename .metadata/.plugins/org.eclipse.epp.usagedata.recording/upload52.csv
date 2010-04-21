@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661151959
+error,log,,,"Exception occurred while creating compilation participant",1267661151960
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661152301
+error,log,,,"Exception occurred while creating compilation participant",1267661152302
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661152403
+error,log,,,"Exception occurred while creating compilation participant",1267661152404
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661152707
+error,log,,,"Exception occurred while creating compilation participant",1267661152708
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661152834
+error,log,,,"Exception occurred while creating compilation participant",1267661152835
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661153381
+error,log,,,"Exception occurred while creating compilation participant",1267661153382
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661153484
+error,log,,,"Exception occurred while creating compilation participant",1267661153485
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661153855
+error,log,,,"Exception occurred while creating compilation participant",1267661153856
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661153957
+error,log,,,"Exception occurred while creating compilation participant",1267661153960
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661154504
+error,log,,,"Exception occurred while creating compilation participant",1267661154506
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661156042
+error,log,,,"Exception occurred while creating compilation participant",1267661156044
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267661209664
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267661212392
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267661216884

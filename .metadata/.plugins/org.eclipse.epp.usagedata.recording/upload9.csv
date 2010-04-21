@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654187
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654188
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654190
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654191
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654192
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654193
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654194
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654195
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654197
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654198
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654200
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654201
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654202
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654203
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654204
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654206
+error,log,,,"Unable to get nature of project 'ConnectivityDemo'.",1267650654207
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650657690
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650701127
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1267650701144
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650702791
+error,log,,,"Exception occurred while creating compilation participant",1267650702793
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650704703
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650718342
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1267650718362

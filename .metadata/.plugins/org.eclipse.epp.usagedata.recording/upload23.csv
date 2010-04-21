@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655334588
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655334797
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655334845
+error,log,,,"Exception occurred while creating compilation participant",1267655334847
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655335654
+error,log,,,"Exception occurred while creating compilation participant",1267655335656
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655344693
+error,log,,,"Exception occurred while creating compilation participant",1267655344695
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655349727
+error,log,,,"Exception occurred while creating compilation participant",1267655349731
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655351766
+error,log,,,"Exception occurred while creating compilation participant",1267655351769
+started,bundle,org.eclipse.mylyn.java.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.java.ui",1267655351972
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.text.contentAssist.proposals",1267655352139
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655355791
+error,log,,,"Exception occurred while creating compilation participant",1267655355793
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655358371
+error,log,,,"Exception occurred while creating compilation participant",1267655358375
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655359423
+error,log,,,"Exception occurred while creating compilation participant",1267655359426
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.text.contentAssist.proposals",1267655360409
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655360965
+error,log,,,"Exception occurred while creating compilation participant",1267655360967
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.text.contentAssist.proposals",1267655363296
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655363491

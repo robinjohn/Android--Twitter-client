@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849385
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849387
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849388
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849390
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849392
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849393
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849395
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650853802
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267651004134
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267651008740
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267651038051
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1267651038078
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267651038674
+error,log,,,"Exception occurred while creating compilation participant",1267651038680
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267651054011
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1267651054316
+started,bundle,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui",1267651054433
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267651054507
+error,log,,,"Exception occurred while creating compilation participant",1267651054508
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267651054533
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267651075836
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1267651080817
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267651082089
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267651173568
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267651175365

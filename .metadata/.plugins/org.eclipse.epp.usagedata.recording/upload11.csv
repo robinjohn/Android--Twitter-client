@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843139
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843143
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843147
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843149
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843151
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843153
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843154
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843157
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843160
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843162
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843164
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843166
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650847068
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650849045
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1267650849050
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1267650849050
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849373
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849375
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849376
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849377
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849379
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849380
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849381
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849382
+error,log,,,"Unable to get nature of project 'BluetoothDemo'.",1267650849384

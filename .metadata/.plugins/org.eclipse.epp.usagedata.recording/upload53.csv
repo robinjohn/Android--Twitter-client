@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661235472
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661286481
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267661296346
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661308811
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661311116
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267661311406
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267661314667
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661316781
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661319161
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267661319484
+error,log,,,"Plug-in org.maven.ide.eclipse.jdt was unable to load class org.maven.ide.eclipse.jdt.internal.ui.MavenJdtMenuCreator.",1267661331374
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661331408
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.exit",1267661331808
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,"org.eclipse.jst.j2ee.xdoclet.runtime",1267661331930
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,"org.eclipse.jst.j2ee.ejb.annotations.xdoclet",1267661331964
+stopped,bundle,org.eclipse.jst.server.generic.jboss,1.6.1.v200904151730,"org.eclipse.jst.server.generic.jboss",1267661331984
+stopped,bundle,org.eclipse.jst.server.generic.jonas,1.5.205.v200805140145,"org.eclipse.jst.server.generic.jonas",1267661332010
+stopped,bundle,org.eclipse.jst.server.generic.oc4j,1.5.206.v20090812,"org.eclipse.jst.server.generic.oc4j",1267661332041
+stopped,bundle,org.eclipse.jst.server.websphere.core,1.0.302.v20080620,"org.eclipse.jst.server.websphere.core",1267661332046
+stopped,bundle,org.eclipse.jst.server.generic.ui,1.0.405.v200905022002,"org.eclipse.jst.server.generic.ui",1267661332062
+stopped,bundle,org.eclipse.jst.server.generic.core,1.0.506.v20090817,"org.eclipse.jst.server.generic.core",1267661332086
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.ide.ant",1267661332099
+stopped,bundle,org.eclipse.ant.ui,3.4.1.v20090901_r351,"org.eclipse.ant.ui",1267661332099
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1267661332120
+stopped,bundle,org.maven.ide.eclipse.launching,0.9.8.200905041413,"org.maven.ide.eclipse.launching",1267661332134

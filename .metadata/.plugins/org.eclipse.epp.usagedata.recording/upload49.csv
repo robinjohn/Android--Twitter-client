@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Exception occurred while creating compilation participant",1267660972843
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660982177
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660982406
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660982445
+error,log,,,"Exception occurred while creating compilation participant",1267660982446
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660983390
+error,log,,,"Exception occurred while creating compilation participant",1267660983393
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661003006
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267661003178
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661003229
+error,log,,,"Exception occurred while creating compilation participant",1267661003231
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661003921
+error,log,,,"Exception occurred while creating compilation participant",1267661003923
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661019964
+error,log,,,"Exception occurred while creating compilation participant",1267661019967
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661026508
+error,log,,,"Exception occurred while creating compilation participant",1267661026509
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1267661027430
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661044053
+error,log,,,"Exception occurred while creating compilation participant",1267661044056
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1267661048287
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1267661049433
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267661051616
+error,log,,,"Exception occurred while creating compilation participant",1267661051620
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1267661051945

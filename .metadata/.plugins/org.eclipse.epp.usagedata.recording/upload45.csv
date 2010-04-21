@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432059
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432060
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432062
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432063
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432064
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432066
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432068
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432069
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432070
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432071
+error,log,,,"Unable to get nature of project 'WiFiDemo'.",1267660432073
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660432648
+error,log,,,"Exception occurred while creating compilation participant",1267660432649
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660437759
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660450543
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1267660450560
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660451152
+error,log,,,"Exception occurred while creating compilation participant",1267660451154
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660451189
+error,log,,,"Exception occurred while creating compilation participant",1267660451191
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660457240
+error,log,,,"Exception occurred while creating compilation participant",1267660457242
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660457525
+error,log,,,"Exception occurred while creating compilation participant",1267660457526
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660458238

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.tasks.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.tasks.ui",1268073733115
+started,bundle,org.eclipse.mylyn.team.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.team.ui",1268073733117
+started,bundle,org.tigris.subversion.clientadapter,1.6.6,"org.tigris.subversion.clientadapter",1268073733117
+started,bundle,org.tigris.subversion.subclipse.core,1.6.6,"org.tigris.subversion.subclipse.core",1268073733117
+started,bundle,org.tigris.subversion.subclipse.ui,1.6.6,"org.tigris.subversion.subclipse.ui",1268073733153
+os,sysinfo,,,"win32",1268073733160
+arch,sysinfo,,,"x86",1268073733160
+ws,sysinfo,,,"win32",1268073733160
+locale,sysinfo,,,"en_US",1268073733160
+processors,sysinfo,,,"2",1268073733160
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1268073733160
+java.runtime.version,sysinfo,,,"1.6.0_16-b01",1268073733160
+java.specification.name,sysinfo,,,"Java Platform API Specification",1268073733160
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1268073733160
+java.specification.version,sysinfo,,,"1.6",1268073733160
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1268073733160
+java.version,sysinfo,,,"1.6.0_16",1268073733160
+java.vm.info,sysinfo,,,"mixed mode, sharing",1268073733160
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1268073733160
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1268073733160
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1268073733160
+java.vm.specification.version,sysinfo,,,"1.0",1268073733160
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1268073733160
+java.vm.version,sysinfo,,,"14.2-b01",1268073733160
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1268073741006

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.collabnet.subversion.merge,2.0.0,"com.collabnet.subversion.merge",1268686355824
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.bugzilla.core",1268686355828
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.bugzilla.ui",1268686355833
+started,bundle,org.eclipse.mylyn.commons.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.commons.ui",1268686355853
+started,bundle,org.eclipse.mylyn.context.core,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.context.core",1268686355856
+started,bundle,org.eclipse.mylyn.context.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.context.ui",1268686355981
+started,bundle,org.eclipse.mylyn.monitor.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.monitor.ui",1268686355983
+started,bundle,org.eclipse.mylyn.tasks.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.tasks.ui",1268686356051
+started,bundle,org.eclipse.mylyn.team.ui,3.3.1.v20091215-0000-e3x,"org.eclipse.mylyn.team.ui",1268686356088
+started,bundle,org.tigris.subversion.clientadapter,1.6.6,"org.tigris.subversion.clientadapter",1268686356088
+started,bundle,org.tigris.subversion.subclipse.core,1.6.6,"org.tigris.subversion.subclipse.core",1268686356088
+started,bundle,org.tigris.subversion.subclipse.ui,1.6.6,"org.tigris.subversion.subclipse.ui",1268686356234
+os,sysinfo,,,"win32",1268686356244
+arch,sysinfo,,,"x86",1268686356245
+ws,sysinfo,,,"win32",1268686356245
+locale,sysinfo,,,"en_US",1268686356245
+processors,sysinfo,,,"2",1268686356245
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1268686356245
+java.runtime.version,sysinfo,,,"1.6.0_16-b01",1268686356245
+java.specification.name,sysinfo,,,"Java Platform API Specification",1268686356245
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1268686356245
+java.specification.version,sysinfo,,,"1.6",1268686356245
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1268686356245
+java.version,sysinfo,,,"1.6.0_16",1268686356245
+java.vm.info,sysinfo,,,"mixed mode, sharing",1268686356245

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671221601
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671221651
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267671235862
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267671242956
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267671246745
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267671252374
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671257402
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671260007
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.cleanAction",1267671260015
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267671274204
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267671378951
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1267671435071
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267671444258
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267671448281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671455926
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671457006
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.cleanAction",1267671457018
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267671472403
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1267671475601
+started,bundle,org.eclipse.wst.jsdt.core,1.0.201.v200908101420,"org.eclipse.wst.jsdt.core",1267671475918
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1267671476039
+error,log,,,"Unable to create editor ID org.eclipse.jdt.ui.CompilationUnitEditor: The file does not exist.",1267671477504
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267671477627
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267671477653
+closed,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267671477659

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267655823710
+executed,command,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.edit.text.java.open.editor",1267655823729
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655824119
+error,log,,,"Exception occurred while creating compilation participant",1267655824120
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267655857823
+activated,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1267655863208
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655911979
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655941669
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655942516
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655946878
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655952312
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656529481
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656538145
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656538164
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656538179
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656543830
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267656545693
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656556866
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656740326
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267656761610
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267656766576
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656787909
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656793106
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.properties",1267656793123
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267656796160

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660927172
+error,log,,,"Exception occurred while creating compilation participant",1267660927175
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660948137
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660948292
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660948356
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660956499
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660957230
+error,log,,,"Exception occurred while creating compilation participant",1267660957235
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660957330
+error,log,,,"Exception occurred while creating compilation participant",1267660957332
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660957509
+error,log,,,"Exception occurred while creating compilation participant",1267660957510
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660958270
+error,log,,,"Exception occurred while creating compilation participant",1267660958271
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660962782
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660963041
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660963079
+error,log,,,"Exception occurred while creating compilation participant",1267660963080
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660963808
+error,log,,,"Exception occurred while creating compilation participant",1267660963811
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660971698
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267660971950
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660972016
+error,log,,,"Exception occurred while creating compilation participant",1267660972017
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660972842

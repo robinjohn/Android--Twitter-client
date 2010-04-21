@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Exception occurred while creating compilation participant",1267660458242
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660458793
+error,log,,,"Exception occurred while creating compilation participant",1267660458794
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.run",1267660464837
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267660477731
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660478269
+error,log,,,"Exception occurred while creating compilation participant",1267660478271
+activated,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1267660479912
+closed,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267660479914
+activated,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.layout.LayoutEditor",1267660482156
+closed,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1267660482176
+activated,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1267660484028
+closed,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.layout.LayoutEditor",1267660484028
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267660485308
+closed,editor,com.android.ide.eclipse.adt,0.9.5.v200911191123-20404,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1267660485317
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267660498746
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267660498856
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660499235
+error,log,,,"Exception occurred while creating compilation participant",1267660499236
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267660518374
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267660518659
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267660518742
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267660519162
+error,log,,,"Exception occurred while creating compilation participant",1267660519164
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267660605519

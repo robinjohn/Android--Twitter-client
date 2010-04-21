@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Exception occurred while creating compilation participant",1267650584918
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650585845
+error,log,,,"Exception occurred while creating compilation participant",1267650585846
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650589635
+error,log,,,"Exception occurred while creating compilation participant",1267650589640
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650589705
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.properties",1267650589721
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650589899
+error,log,,,"Exception occurred while creating compilation participant",1267650589900
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650590911
+error,log,,,"Exception occurred while creating compilation participant",1267650590915
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650604613
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650633995
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1267650634004
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1267650634004
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650636226
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650643976
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650648081
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1267650651816
+started,bundle,org.eclipse.wst.jsdt.core,1.0.201.v200908101420,"org.eclipse.wst.jsdt.core",1267650652169
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1267650652418
+closed,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1267650653728
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650653810
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1267650653851
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1267650653851

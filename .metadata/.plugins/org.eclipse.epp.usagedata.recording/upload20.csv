@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655058281
+error,log,,,"Exception occurred while creating compilation participant",1267655058282
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655058328
+error,log,,,"Exception occurred while creating compilation participant",1267655058329
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655059342
+error,log,,,"Exception occurred while creating compilation participant",1267655059344
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655066453
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655066664
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655066705
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655074352
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655074522
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655074560
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655075501
+error,log,,,"Exception occurred while creating compilation participant",1267655075504
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655075617
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655083979
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655084315
+error,log,,,"Exception occurred while creating compilation participant",1267655084318
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655084322
+error,log,,,"Exception occurred while creating compilation participant",1267655084323
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267655085083
+error,log,,,"Exception occurred while creating compilation participant",1267655085085
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655090352
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655090528
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267655090556

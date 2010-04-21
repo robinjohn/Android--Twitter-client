@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+os,sysinfo,,,"win32",1267650068291
+arch,sysinfo,,,"x86",1267650068291
+ws,sysinfo,,,"win32",1267650068291
+locale,sysinfo,,,"en_US",1267650068291
+processors,sysinfo,,,"2",1267650068291
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1267650068291
+java.runtime.version,sysinfo,,,"1.6.0_16-b01",1267650068291
+java.specification.name,sysinfo,,,"Java Platform API Specification",1267650068291
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1267650068291
+java.specification.version,sysinfo,,,"1.6",1267650068291
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1267650068291
+java.version,sysinfo,,,"1.6.0_16",1267650068291
+java.vm.info,sysinfo,,,"mixed mode, sharing",1267650068291
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1267650068291
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1267650068291
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1267650068291
+java.vm.specification.version,sysinfo,,,"1.0",1267650068291
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1267650068291
+java.vm.version,sysinfo,,,"14.2-b01",1267650068291
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267650068340
+started,bundle,org.eclipse.jst.jsf.common,1.1.7.v20090903,"org.eclipse.jst.jsf.common",1267650068345
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1267650068373
+started,bundle,org.eclipse.jst.jsf.core,1.2.2.v20090903,"org.eclipse.jst.jsf.core",1267650068391
+closed,view,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.internal.introview",1267650068414
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1267650068448

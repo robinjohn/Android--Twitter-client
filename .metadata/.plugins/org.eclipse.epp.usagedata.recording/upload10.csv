@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650719215
+error,log,,,"Exception occurred while creating compilation participant",1267650719217
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650722070
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650724084
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.import",1267650724098
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650738460
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650757677
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650766577
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650771748
+error,log,,,"Exception occurred while creating compilation participant",1267650771750
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650778396
+error,log,,,"Exception occurred while creating compilation participant",1267650778398
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650778440
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1267650778453
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1267650778722
+error,log,,,"Exception occurred while creating compilation participant",1267650778724
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650780673
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650814696
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1267650839071
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650839939
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1267650842798
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1267650842804
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1267650842804
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843132
+error,log,,,"Unable to get nature of project 'AIDLDemo'.",1267650843134
